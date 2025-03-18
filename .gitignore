@@ -1,7 +1,10 @@
-# Build
 /build/
 *.o
 *.exe
 *.dll
 
 .vscode/
+
+./include/glad
+./include/GLFW
+./include/KHR
