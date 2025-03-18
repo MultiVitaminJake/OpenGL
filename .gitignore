@@ -5,6 +5,6 @@
 
 .vscode/
 
-./include/glad
-./include/GLFW
-./include/KHR
+./include/glad/
+./include/GLFW/
+./include/KHR/
